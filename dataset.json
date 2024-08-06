@@ -1,0 +1,289 @@
+[{
+        "role": "user",
+        "parts": [
+            "Siapa kamu?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Saya adalah Akif, chatbot akademik Fakultas Informatika (FIF) IT Telkom Purwokerto"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Dimana Ruangan akademik"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Ruang akademik di gedung DC lt 205"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Syarat Tugas akhir apa aja"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Syarat TA atau Tugas Akhir dapat dilihat di link berikut : https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2023\/10\/Panduan-Tugas-Akhir-revisi-26-April-2023-Edisi-Revisi-_-1.pdf"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Dimana saya bisa mendapat TTD atau tanda tangan dekan FIF?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Kamu dapat langsung datang ke ruang DC-206 dan menyerahkan dokumen yang perlu di ttd oleh dekan kepada sekertaris dekan. Atau jika urgent kamu bisa langsung menghubungi dekan FIF untuk janji temu."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apakah toefl harus 450 untuk ikut yudisium?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Salah satu syarat untuk mengikuti Yudisium adalah mendapat skor TOEFL minimal 450. TOEFL harus dari instansi resmi, baik dari dalam kampus maupun luar kampus. Jika kamu sudah mengikuti Toefl sebanyak 3 kali dan masih belum memenuhi minimal skor kamu dapat berkoordinasi ke pusat Bahasa di rektorat 401."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana meminta acc TAK\/SKPI?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Untuk mendapat ACC TAK kamu dapat memilih terlebih dahulu 5 poin TAK terbaik, kemudian kamu dapat mengajukan ke dosen wali untuk minta approval. Jika dosen wali belum merespon atau mengalami kendala kamu dapat langsung ke ruang akademik di DC-205."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apa boleh cek plagiasi atau turnitin selain dari perpus?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Turnitin atau plagiasi naskah Tugas Akhir dapat dari luar kampus atau library IT Telkom asalkan menggunakan Turnitin yang resmi dan kredibel."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Panduan TA\/PA Igracias"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Untuk panduan TA\/PA Igracias dapat di buka di link berikut: https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2023\/09\/Panduan-TA-PA-Igracias.pdf"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Formulir pendaftaran sidang TA 2 atau Tugas Akhir 2"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Formulir pendaftaran sidang TA2 dapat dibuka di: https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2021\/08\/Formulir-Pendaftaran-Sidang-FIF-2021.pdf"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Formulir pendaftaran yudisium"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Formulir pendaftaran yudisium dapat dibuka di: https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2023\/06\/3.-Form-Pendaftaran-Yudisium.docx"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana Tahap Bimbingan?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Bimbingan tugas akhir dapat mulai dilakukan setelah proses penentuan pembimbing utama. Mahasiswa diharapkan melakukan konsultasi secara intensif, baik dengan pembimbing utama maupun pendamping. a. Pembimbing utama memiliki wewenang untuk memberikan penilaian bimbingan serta wajib mengisi Formulir Penilaian Bimbingan, berhak menentukan pertemuan atau waktu bimbingan untuk semua mahasiswa bimbingannya jika diperlukan, dan juga memberikan persetujuan kepada mahasiswa apakah layak untuk melanjutkan pada tahap sidang proposal. b. Pembimbing pendamping dapat diusulkan oleh mahasiswa dengan mengajukan Formulir Usulan Pembimbing ke calon pembimbing, dapat berasal dari dosen institusi, dosen luar institusi maupun praktisi industri yang terkait dengan TA mahasiswa yang bersangkutan. c. Bagi mahasiswa yang mengulang Tugas akhir 1, dapat melanjutkan topik\/judul sebelumnya dengan pembimbing yang sama selama tidak ada catatan khusus dari hasil Seminar proposal."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana struktur penulisan proposal\/Naskah\/Skripsi penelitian Tugas Akhir\/TA?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Untuk struktur penulisan proposal Tugas Akhir bisa dilihat di link berikut ya: https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2023\/10\/Panduan-Tugas-Akhir-revisi-26-April-2023-Edisi-Revisi-_-1.pdf"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Syarat Sidang TA2 atau Tugas Akhir 2 atau Sidang Hasil?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Sidang bagi mahasiswa yang sudah selesai dalam pengerjaan Tugas Akhir 2 dapat diselenggarakan dengan mekanisme sebagai berikut.\n1. Syarat\n\u2022 Pembimbing telah menyatakan bahwa Tugas Akhir 2 mahasiswa yang bersangkutan telah selesai melalui lembar persetujuan pada Laporan Tugas Akhir.\n\u2022 Mengajukan formulir pendaftaran sidang, beserta kelengkapan berkasnya meliputi:\n  - Laporan Tugas Akhir 2 yang sudah disetujui pembimbing tanpa jilid (Rangkap 5)\n  - Cetak draft hasil penelitian dalam format paper (format: Artikel Ilmiah) rangkap 5.\n  - Bukti Cek Software Plagiarism (maksimal 20%)\n  - Fotokopi Bukti Bimbingan (minimal 10 kali dengan Dosen Pembimbing Utama dan minimal 5 kali dengan Dosen Pembimbing Pendamping), yang dilanjutkan dari bimbingan saat Tugas Akhir 1.\n  - Fotocopy Kuitansi Registrasi, Kuitansi Pendadaran-Wisuda, Transkrip Sementara, KRS, Ijazah Terakhir (Legalisir), dan Akte Kelahiran.\n  - Surat Pernyataan Karya Asli Tugas Akhir (foto Copy dengan Materai 6000)\n  - Lulus semua mata kuliah yang dipersyaratkan dengan IPK minimal 2,5.\n2. Pakaian\n\u2022 Putra: kemeja putih berdasi hitam, celana panjang non jeans warna biru tua\/gelap, bersepatu dan mengenakan jas almamater.\n\u2022 Putri: kemeja putih, rok\/celana panjang non jeans warna biru tua\/gelap, bersepatu dan mengenakan jas almamater.\n3. Sidang Tugas Akhir dilaksanakan dalam waktu maksimal 180 menit, termasuk untuk presentasi, demonstrasi alat atau perangkat lunak, tanya jawab serta rapat tim penguji untuk menentukan kelulusan.\n4. Sidang Tugas Akhir dinyatakan sah jika dihadiri oleh Pembimbing dan Tim Penguji. Dalam hal ketidakhadiran pembimbing atau penguji maka:\n  \u2022 Jika salah satu penguji tidak hadir, sidang tetap dilaksanakan dengan digantikan dosen penguji lainnya, atau minimal dengan satu penguji.\n  \u2022 Sidang dapat dilaksanakan apabila minimal salah satu pembimbing hadir.\n5. Mahasiswa hadir selambat-lambatnya 30 menit sebelum sidang Tugas Akhir 2 dimulai, dan memeriksa peralatan yang diperlukan saat sidang.\n6. Mahasiswa yang terlambat hadir dengan alasan yang tidak dapat diterima\/dipertanggungjawabkan maka dinyatakan tidak lulus sidang Tugas Akhir 2.\n7. Bahan presentasi dan presentasi Tugas Akhir 2 diperbolehkan menggunakan Bahasa Inggris."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana cara mengajukan perubahan dosen pembimbing(dospem)?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Keberlangsungan Tugas Akhir sangat mungkin terjadi hal yang mengharuskan mahasiswa untuk berganti pembimbing. Mahasiswa dapat mengajukan pergantian Pembimbing dengan mengisi Formulir Perubahan Pembimbing :https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2020\/06\/10_Formulir-Permohonan-Perubahan-Pembimbing-Tugas-Akhir-FIF.pdf kemudian diserahkan kepada Gugus TA Fakultas Informatika.\nPenentuan Pembimbing Utama pengganti akan dilakukan oleh Gugus TA yang berkoordinasi dengan Ketua Program Studi beserta dosen pada KK yang berkaitan dengan topik TA. Sedangkan untuk Pembimbing Pendamping mahasiswa boleh memilih pembimbing pengganti dengan alasan yang dapat dipertanggungjawabkan dan tetap sesuai dengan aturan jumlah bimbingan maksimal serta sudah mendapatkan persetujuan pembimbing."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana cara mengganti dosen pembimbing atau dospem?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Keberlangsungan Tugas Akhir sangat mungkin terjadi hal yang mengharuskan mahasiswa untuk berganti pembimbing. Mahasiswa dapat mengajukan pergantian Pembimbing dengan mengisi Formulir Perubahan Pembimbing :https:\/\/fif.ittelkom-pwt.ac.id\/wp-content\/uploads\/2020\/06\/10_Formulir-Permohonan-Perubahan-Pembimbing-Tugas-Akhir-FIF.pdf kemudian diserahkan kepada Gugus TA Fakultas Informatika.\nPenentuan Pembimbing Utama pengganti akan dilakukan oleh Gugus TA yang berkoordinasi dengan Ketua Program Studi beserta dosen pada KK yang berkaitan dengan topik TA. Sedangkan untuk Pembimbing Pendamping mahasiswa boleh memilih pembimbing pengganti dengan alasan yang dapat dipertanggungjawabkan dan tetap sesuai dengan aturan jumlah bimbingan maksimal serta sudah mendapatkan persetujuan pembimbing."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apa itu Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Program Magang Bersertifikat Kampus Merdeka adalah program yang memberikan kesempatan kepada mahasiswa untuk mendapatkan pengalaman kerja nyata di industri dalam bentuk magang dengan pembekalan kompetensi serta sertifikat yang diakui oleh industri."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apa tujuan Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Tujuan dari Program Magang Bersertifikat Kampus Merdeka adalah untuk meningkatkan kompetensi mahasiswa sesuai dengan kebutuhan industri, mengurangi kesenjangan antara dunia pendidikan dan dunia kerja, serta mempersiapkan mahasiswa untuk siap kerja setelah lulus."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Siapa yang dapat mengikuti Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Program ini dapat diikuti oleh mahasiswa yang terdaftar aktif di perguruan tinggi yang memiliki kerjasama dengan industri dalam program Magang Bersertifikat Kampus Merdeka."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana cara mendaftar Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Mahasiswa dapat mendaftar melalui portal resmi Kampus Merdeka pada halaman magang. Mereka harus mengisi formulir pendaftaran, mengunggah dokumen yang diperlukan, dan menunggu proses seleksi dari industri yang bersangkutan."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apa saja manfaat mengikuti Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Manfaat mengikuti Program Magang Bersertifikat Kampus Merdeka antara lain: mendapatkan pengalaman kerja nyata, membangun jaringan profesional, mendapatkan sertifikat kompetensi, dan meningkatkan peluang untuk mendapatkan pekerjaan setelah lulus."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Berapa lama durasi magang dalam Program Magang Bersertifikat Kampus Merdeka?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Durasi magang dalam Program Magang Bersertifikat Kampus Merdeka bervariasi tergantung pada kesepakatan antara perguruan tinggi dan industri, namun umumnya berlangsung selama 1 hingga 2 semester."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apakah mahasiswa akan mendapatkan insentif selama mengikuti magang?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Ya, mahasiswa yang mengikuti Program Magang Bersertifikat Kampus Merdeka biasanya akan mendapatkan insentif berupa uang saku yang diberikan oleh industri sesuai dengan ketentuan yang berlaku."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Apakah magang ini diakui sebagai SKS dalam kurikulum?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Ya, kegiatan magang dalam Program Magang Bersertifikat Kampus Merdeka diakui sebagai bagian dari kurikulum dan dapat dikonversi menjadi Satuan Kredit Semester (SKS) sesuai dengan aturan yang berlaku di perguruan tinggi masing-masing."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Bagaimana penilaian dalam Program Magang Bersertifikat Kampus Merdeka dilakukan?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Penilaian dalam Program Magang Bersertifikat Kampus Merdeka dilakukan oleh industri berdasarkan kinerja mahasiswa selama magang. Aspek yang dinilai meliputi keterampilan teknis, soft skills, etika kerja, dan kontribusi mahasiswa terhadap proyek atau tugas yang diberikan."
+        ]
+    }
+]
