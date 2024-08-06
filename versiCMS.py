@@ -35,7 +35,7 @@ model = genai.GenerativeModel(
 )
 
 #--- load dataset ---
-with open('data_training.json', 'r') as file:
+with open('dataset.json', 'r') as file:
     dataTraining = json.load(file)
 #-- track user aktif  + kasih sesi---
 user_last_activity = {}
